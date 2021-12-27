@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string-array name="activity">
+        <item>Активный</item>
+        <item>Сидячий</item>
+        <item>Умеренный</item>
+        <item>Запойный</item>
+    </string-array>
+</resources>
